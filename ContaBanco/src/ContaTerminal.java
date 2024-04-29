@@ -13,7 +13,7 @@ public class ContaTerminal {
         System.out.println("Agora, insira seu segundo nome ");
         String sobrenome = scanner.next();
 
-        System.out.println("Agora insira o número de quatro dígitos da agência ");
+        System.out.println("Agora, insira o número de quatro dígitos da agência ");
         int numero = scanner.nextInt();
 
         // Sistema de decisão para imprimir a Agência e saldo através do numero inserido do usuário;
